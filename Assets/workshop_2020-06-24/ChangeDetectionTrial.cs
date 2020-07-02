@@ -13,7 +13,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using System.Threading;
 
-public class CDtrial : ExperimentTask
+public class ChangeDetectionTrial : ExperimentTask
 {
     //[Header("Task-specific Properties")]
 
